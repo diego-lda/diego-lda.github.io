@@ -11,13 +11,12 @@ Portfolio Projects:
 - Cash-Swap smart contract/webapp
 - Ethereum and Bitcoin Metcalfe's law analysis.
 - FindCryptoLinks.com
-- 
 
 ### To-do
 
 Open improvement tasks:
 
-- [ ] Include findcryptolinks.com project.
+- [X] Include findcryptolinks.com project.
 - [ ] Footer and social media links.
 - [ ] 
 
